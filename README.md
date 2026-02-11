@@ -1,4 +1,4 @@
-# Oncology Genomics Analyzer – Powered by google/gemma-3-27b-it:featherless-ai
+# Oncology Genomics Analyzer – Powered by google/gemma-3-27b-it
 
 A single page web application that processes tumor genomic and clinical data using a multi-agent LLM pipeline. It parses key biomarkers, forecasts hypothetical trajectories, queries real-time recruiting clinical trials from ClinicalTrials.gov, and generates speculative summary vectors of possible therapy approaches — strictly for research and demonstration purposes.
 
